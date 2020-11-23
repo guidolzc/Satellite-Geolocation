@@ -33,7 +33,7 @@ const updateMap = () => {
       }).addTo(myMap)
     })
 
-  setTimeout(updateMap, 3000)
+  setTimeout(updateMap, 30000)
 }
 
 updateMap()
