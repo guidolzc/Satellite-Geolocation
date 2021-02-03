@@ -7,4 +7,6 @@ Satellite map
 2- real time movement of the satellite
 
 
+1- acércate al punto de ubicación
 
+2- movimiento del satélite en tiempo real
